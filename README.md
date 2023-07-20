@@ -4,7 +4,7 @@
 </div>
 <br />
 <div display=flex align=center>
- <div > :zap: Front-end Skills</div>
+ <div > :zap: Front-end Skills :zap: </div>
   <br />
   <br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
